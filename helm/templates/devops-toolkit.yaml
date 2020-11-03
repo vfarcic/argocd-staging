@@ -16,7 +16,7 @@ spec:
         image:
           tag: latest
         ingress:
-          host: devopstoolkitseries.com
+          host: staging.devopstoolkitseries.com
       version: v3
   destination:
     namespace: staging

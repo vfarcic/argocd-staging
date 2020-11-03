@@ -16,7 +16,7 @@ spec:
         image:
           tag: latest
         ingress:
-          host: devopsparadox.com
+          host: staging.devopsparadox.com
       version: v3
   destination:
     namespace: staging
