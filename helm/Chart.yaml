@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Staging environment
+name: devops-toolkit
+version: "0.1.0"
